@@ -1,0 +1,1 @@
+﻿UPDATE users SET IsAdmin = 1 WHERE Email = 'bonolo4@gmail.com';
