@@ -66,7 +66,9 @@ This project is actively being improved as part of our ongoing portfolio work:
 Built by Zanele Radebe, Ntswaki Mokwana and Bonolo Masemola — final-year BSc Information Technology student, North-West University.
 
 - GitHub: @ZaneRadebe6(https://github.com/Zaneradebe6)
-- LinkedIn: *add your link here*- Email: zaneradebe6@gmail.com
+- Github: Bonolo4(https://github.com/Bonolo4)
+- GitHub: ReymondsMokwana(https://github.com/ReymondsMokwana)
+
 
 ## License
 
