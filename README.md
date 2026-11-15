@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-🔗 *Coming soon — deployment in progress.*
+🔗 
 
 ## The Problem
 
