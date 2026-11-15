@@ -1,6 +1,6 @@
 # Glitz Events
 
-**Glitz Events** is a South African event-planning platform that lets customers browse and book customizable event packages — décor, catering, seating, and sound — in one place, instead of contacting multiple vendors separately for weddings, birthdays, and graduations.
+**Glitz Events** is a South African event-planning platform that lets customers browse and book customizable event packages décor, catering, seating, and sound in one place, instead of contacting multiple vendors separately for weddings, birthdays, and graduations.
 
 ## Live Demo
 
